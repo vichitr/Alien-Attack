@@ -11,15 +11,15 @@ My first game developed using pygame.
 ## How to Download and Play
 
 ### Downloading the game
-- You can download the game by cliking on `Alien Attack.zip` repository or from [here]("https://github.com/vichitr/Alien-Attack/raw/master/Alien%20Attack.zip")
+- You can download the game by cliking on `Alien Attack.zip` repository or from [here](https://github.com/vichitr/Alien-Attack/raw/master/Alien%20Attack.zip)
 - After downloading unzip the downloaded folder i.e. `Alien Attack.zip`
 - Now run `AlienAttack.py` file and game window will appear. Start playing and have fun.
 
 ### Prerequisites to run the game
-- Download and install `Python`(2.7.13 or higher version) and set environment variables. Link to download Python2.7.14 is [here]("https://www.python.org/ftp/python/2.7.14/python-2.7.14.msi").
-- Download any compiler or text editor to run python files. I use `Geany`. Link to download `Geany` is [here]("http://download.geany.org/geany-1.31_setup.exe").
+- Download and install `Python`(2.7.13 or higher version) and set environment variables. Link to download Python2.7.14 is [here](https://www.python.org/ftp/python/2.7.14/python-2.7.14.msi).
+- Download any compiler or text editor to run python files. I use `Geany`. Link to download `Geany` is [here](http://download.geany.org/geany-1.31_setup.exe).
 - Set environment variables for `Geany` to run .py files.
-- Install `pygame` module for your version of `Python`. You can download latest version from [here]("https://pypi.python.org/packages/61/06/3c25051549c252cc6fde01c8aeae90b96831370884504fe428a623316def/pygame-1.9.3.tar.gz#md5=ac744ea6952b68d5f2b6d02a6d8e836c")
+- Install `pygame` module for your version of `Python`. You can download latest version from [here](https://pypi.python.org/packages/61/06/3c25051549c252cc6fde01c8aeae90b96831370884504fe428a623316def/pygame-1.9.3.tar.gz#md5=ac744ea6952b68d5f2b6d02a6d8e836c)
 - Make sure that `pygame` module is working for your current version of `Python` and your operating system.
 
 ### Playing the game
