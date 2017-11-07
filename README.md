@@ -30,7 +30,7 @@ My first game developed using pygame.
 ### PS: Put all the files of zip folder in the same directory. Otherwise the game won't run.
 
 ### Instructions and Commands to play the game
-1. Player is given 3 Lifes, 5 Superbullets and infinite spaceship bullets in the beginning of the game.
+1. Player is given 3 Lifes, 5 Superbullets and infinite spaceship bullets in the beginning of the game.   
 2. Keyboard Controls-
 - SPACE - To hit an alien
 - LEFT TAB - To use super bullet
