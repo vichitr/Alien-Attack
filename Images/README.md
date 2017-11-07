@@ -38,4 +38,4 @@ This repo contains all images used in the game.
 </p>  
 
 - ```background.png``` - Image of game's background
-![Alien Attack]("https://github.com/vichitr/Alien-Attack/blob/master/Images/background.png")
+![Alien Attack](https://github.com/vichitr/Alien-Attack/blob/master/Images/background.png)
