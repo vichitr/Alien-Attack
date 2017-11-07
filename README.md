@@ -31,7 +31,7 @@ My first game developed using pygame.
 
 ### Instructions and Commands to play the game
 1. Player is given 3 Lifes, 5 Superbullets and infinite spaceship bullets in the beginning of the game.
-2. Keyboard Controls are given bellow-
+2. Keyboard Controls-
 - SPACE - To hit an alien
 - LEFT TAB - To use super bullet
 - KEY A or LEFT ARROW - Move left
@@ -47,8 +47,8 @@ My first game developed using pygame.
 5. Powerups-
 - Heart Sign Powerup - To increase the no of lifes(Max lifes = 3). 
 - Energy Sign Powerup - To increase the no  of superbullets(Max = 9)
-6. Aliens-
-  There are three types of aliens coming.
+6. Aliens-  
+- There are three types of aliens coming
 - Alien: Hit once to destroy. Score - 10 per alien destroyed.
 - Alien1: Hit once to destroy. Score - 15 per alien destroyed.
 - Super Alien: Hit thrice to destroy. Score - 30 per alien destroyed.
@@ -57,7 +57,7 @@ My first game developed using pygame.
 - Super bullet doesn't get destroyed till it reaches the end of screen.
 - It can destroy any type of alien with one hit.
 - Also, player get more score if he/she destroys aliens with super bullets.
-8. Scoring-
+8. Scoring-  
   Score for different aliens is as following-
 - Alien - Score of 20
 - Alien1 - Score of 30
