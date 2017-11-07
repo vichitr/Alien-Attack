@@ -5,30 +5,30 @@ This repo contains all images used in the game.
 - ```alien.png``` - Image of an alien
 <p align="left" >
 <img src="https://github.com/vichitr/Alien-Attack/blob/master/Images/alien.png" width="70" height="70" />
-</p>
+</p>  
 - ```alien1.png``` - Another alien's image
 <p align="left" >
 <img src="https://github.com/vichitr/Alien-Attack/blob/master/Images/alien1.png" width="70" height="70" />
-</p>
+</p>  
 - ```superalien.png``` - Super Alien's image
 <p align="left" >
 <img src="https://github.com/vichitr/Alien-Attack/blob/master/Images/superalien.png" width="70" height="70" />
-</p>
+</p>  
 - ```spaceship.png``` - Spaceship's image
 <p align="left" >
 <img src="https://github.com/vichitr/Alien-Attack/blob/master/Images/spaceship.png" width="70" height="70" />
-</p>
+</p>  
 - ```superbullet.png``` - Missile's image
 <p align="left" >
 <img src="https://github.com/vichitr/Alien-Attack/blob/master/Images/superbullet.png" width="30" height="80" />
-</p>
+</p>  
 - ```life.png``` - Image of life powerup
 <p align="left" >
 <img src="https://github.com/vichitr/Alien-Attack/blob/master/Images/life.png" width="50" height="50" />
-</p>
+</p>  
 - ```powerup.png``` - Image of powerup that increases number of super bullets
 <p align="left" >
 <img src="https://github.com/vichitr/Alien-Attack/blob/master/Images/powerup.png" width="50" height="50" />
-</p>
+</p>  
 - ```background.png``` - Image of game's background
 ![Alien Attack]("https://github.com/vichitr/Alien-Attack/blob/master/Images/alien.png")
