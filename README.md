@@ -11,7 +11,7 @@ My first game developed using pygame.
 ## How to Download and Play
 
 ### Downloading the game
-- You can download the game from [release section](https://github.com/vichitr/Alien-Attack/releases) or by cliking on `Alien Attack.zip` repository or from [here](https://github.com/vichitr/Alien-Attack/raw/master/Alien%20Attack.zip).
+- You can download the game from [release section](https://github.com/vichitr/Alien-Attack/releases) or from [here](https://github.com/vichitr/Alien-Attack/raw/master/Alien%20Attack.zip).
 - After downloading unzip the downloaded folder i.e. `Alien Attack.zip`.
 - Now run `AlienAttack.py` file and game window will appear. Start playing and have fun.
 
@@ -59,3 +59,16 @@ My first game developed using pygame.
 - Also, player get more score if he/she destroys aliens with super bullets. 
 - Score for different aliens is as following-  
   Alien - Score of 20, Alien1 - Score of 30 and Super Alien - Score of 60
+
+## Contribution
+- Everyone is welcome to contribute on this project. 
+- You can read from `CONTRIBUTING.md` file or click [here](https://github.com/vichitr/Alien-Attack/blob/master/CONTRIBUTING.md) to know what you can contribute to.
+- You can contribute by opening an Issue and also by solving a current issue if possible.
+- Fork the project to your GitHub account
+- After forking enter the following commands in your terminal or git bash:
+`$ git clone https://github.com/vichitr/Alien-Attack
+ $ cd Alien-Attack
+ $ $ vi AlienAttack.py`
+- Kindly send Pull Requests with explanation as to what changes you have done.
+## License
+- This software is developed under [Apache License 2.0](https://github.com/vichitr/Alien-Attack/blob/master/LICENSE)
