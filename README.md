@@ -54,7 +54,7 @@ My first game developed using pygame.
 - Super Alien: Hit thrice to destroy. Score - 30 per alien destroyed.
 7. Super Bullets-
 - Max no of super bullets to store is 9.
-- Super bullet doesn't get destroyed till it reaches the end of screen.
+- Super bullet doesn't get destroyed until it reaches the end of screen.
 - It can destroy any type of alien with one hit.
 - Also, player get more score if he/she destroys aliens with super bullets. 
 - Score for different aliens is as following-  
