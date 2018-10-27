@@ -1,4 +1,6 @@
-#Coded by Vichitr
+# Fun Game by Vichitr
+# Developed in Python using pygame
+
 # import the modules
 import pygame,random,sys
 from pygame.locals import *
