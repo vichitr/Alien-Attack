@@ -4,4 +4,7 @@ You can learn how from this *free* series [How to Contribute to an Open Source P
 ## Features to be added
 
 - In the game, aliens don't fire bullets, I want aliens to fire bullets and hit the player to make it more interesting.
-- Add a leaderboard for all the players who have played the game. Leaderboard should not reset till player doesn't. 
+- Add a leaderboard for all the players who have played the game. Leaderboard should not reset until player doesn't reset. 
+
+<br><br><br>
+Send your changes with explanation of changes. Follow the guidelines. Thanks!
