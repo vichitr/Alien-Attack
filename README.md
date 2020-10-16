@@ -64,6 +64,7 @@ This is first game developed by me using pygame.
 - Everyone is welcome to contribute on this project. 
 - You can read from `CONTRIBUTING.md` file or click [here](https://github.com/vichitr/Alien-Attack/blob/master/CONTRIBUTING.md) to know what you can contribute to.
 - You can contribute by opening an [Issue](https://github.com/vichitr/Alien-Attack/issues) and also by solving a current issue if possible.
+- Or you can contribute by suggesting new features, improvements or bug fixes.
 - Fork the project to your GitHub account
 - After forking enter the following commands in your terminal or git bash:   
  ```
