@@ -62,6 +62,7 @@ This is first game developed by me using pygame.
 
 ## Contribution
 - Everyone is welcome to contribute on this project. 
+- First time PRs are also welcome. PRs will be accepted for Hacktoberfest.
 - You can read from `CONTRIBUTING.md` file or click [here](https://github.com/vichitr/Alien-Attack/blob/master/CONTRIBUTING.md) to know what you can contribute to.
 - You can contribute by opening an [Issue](https://github.com/vichitr/Alien-Attack/issues) and also by solving a current issue if possible.
 - Or you can contribute by suggesting new features, improvements or bug fixes.
