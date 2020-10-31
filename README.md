@@ -77,5 +77,3 @@ This is first game developed by me using pygame.
 ## License
 - This software is developed under [Apache License 2.0](https://github.com/vichitr/Alien-Attack/blob/master/LICENSE)
 
-### Anything
-- Write other things here!
